@@ -1,4 +1,4 @@
-use std::{env::Args, str};
+use std::str;
 
 use trpl::{Html, Response};
 
