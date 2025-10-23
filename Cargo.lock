@@ -308,6 +308,7 @@ dependencies = [
 name = "hello-async"
 version = "0.1.0"
 dependencies = [
+ "futures",
  "trpl",
 ]
 
