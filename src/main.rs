@@ -1,4 +1,4 @@
-use trpl::{Either, Html, Response};
+use trpl::{Html, Response};
 
 fn main() {
     let args: Vec<String> = std::env::args().collect();
