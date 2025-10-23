@@ -6,3 +6,6 @@ edition = "2024"
 [dependencies]
 futures = "0.3.31"
 trpl = "0.3.0"
+
+[dev-dependencies]
+assert_cmd = "2.0.17"
